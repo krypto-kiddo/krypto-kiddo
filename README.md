@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @krypto-kiddo
-- 👀 I’m interested in Blockchain and Crypto development
 
+- Known as A2XiZED in the metaverse... and as Yashwardhan Dixit in the universe xD
+
+- 👀 I’m interested in Blockchain and Crypto development
 
 - Feel free to contact me on Discord, username: Krypto Kiddo#9465
 

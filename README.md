@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @krypto-kiddo
+- 👋 Hi, I’m @krypto-kiddo , Blockchain Developer Intern at Strawhats DAO
 
 - Known as A2XiZED in the metaverse... and as Yashwardhan Dixit in the universe xD
 

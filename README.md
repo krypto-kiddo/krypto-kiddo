@@ -6,6 +6,6 @@
 
 - Feel free to contact me on Discord, username: A2X_iZED#0363
 
-- Python and JS i think i know pretty well. Kinda new to Solidity but I am getting a hold of it. 
+- Solidity, Rust, Python, Javascript, C, C++
 
 

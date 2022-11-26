@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @krypto-kiddo , Blockchain Developer Intern at Strawhats DAO
+- 👋 Hi, I’m @krypto-kiddo , (Former) Blockchain Developer Intern at Strawhats DAO
 
 - Known as A2XiZED in the metaverse... and as YD in the universe xD
 

@@ -7,3 +7,6 @@
 - Feel free to contact me on Discord, username: A2X_iZED#0363
 
 - Solidity, Rust, Python, Javascript, C, C++
+
+
+![snake gif](https://github.com/krypto-kiddo/krypto-kiddo/blob/output/github-contribution-grid-snake.gif)

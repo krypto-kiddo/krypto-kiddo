@@ -1,7 +1,7 @@
 name: Generate Snake Game from GitHub Contribution Grid
 on:
   schedule:
-    - cron: "55 20 * * *"
+    - cron: "54 20 * * *"
 
 jobs:
   build:

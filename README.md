@@ -9,8 +9,4 @@
 - Solidity, Rust, Python, Javascript, C, C++
 
 
-![snake gif](https://github.com/krypto-kiddo/krypto-kiddo/blob/output/github-contribution-grid-snake.gif)
-
-![snake2 gif](https://github.com/fyka/fyka/blob/output/github-contribution-grid-snake.gif)
-
-![fyka.svg](https://raw.githubusercontent.com/fykaa/fykaa/main/contributiongrid.svg)
+![snake gif](https://github.com/krypto-kiddo/krypto-kiddo/blob/output/github-contribution-grid-snake.svg)

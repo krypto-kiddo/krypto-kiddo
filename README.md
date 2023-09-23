@@ -4,7 +4,9 @@
 
 - 👀 I’m interested in Blockchain and Crypto development
 
-- Feel free to contact me on Discord, username: A2X_iZED#0363
+- Feel free to contact me on Discord, username: @supervirgo
+
+- Twitter : @Supervirgo13
 
 - Solidity, Rust, Python, Javascript, C, C++
 

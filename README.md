@@ -1,14 +1,18 @@
-- 👋 Hi, I’m @krypto-kiddo , (Former) Blockchain Developer Intern at Strawhats DAO
+👋 Hi, I’m Yashwardhan Dixit
 
-- Known as A2XiZED in the metaverse... and as YD in the universe xD
+Backend-focused software engineer with 3.5+ years of experience building scalable systems. I’ve worked across backend development, AI/ML, and DevOps, with prior exposure to blockchain and smart contracts.
 
-- 👀 I’m interested in Blockchain and Crypto development
+💻 Tech Stack:
+- Backend: Python, Node.js, Java
+- AI/ML: Python, applied ML workflows
+- DevOps: Docker, CI/CD, system design fundamentals
+- Frontend: React (working knowledge)
+- Blockchain: Solidity, Rust (prior experience)
 
-- Feel free to contact me on Discord, username: @supervirgo
+🚀 Currently:
+Building and scaling my own startup while exploring part-time remote opportunities.
 
-- Twitter : @Supervirgo13
-
-- Solidity, Rust, Python, Javascript, C, C++
+📫 Open to collaboration and interesting engineering problems.
 
 
 ![snake gif](https://github.com/krypto-kiddo/krypto-kiddo/blob/output/github-contribution-grid-snake.svg)
